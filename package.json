@@ -1,0 +1,22 @@
+{
+  "name": "understanding-hapi",
+  "version": "1.0.0",
+  "description": "working through hapi tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ant300zx/understanding-hapi.git"
+  },
+  "author": "Anthony Cull",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ant300zx/understanding-hapi/issues"
+  },
+  "homepage": "https://github.com/ant300zx/understanding-hapi",
+  "dependencies": {
+    "hapi": "^10.4.1"
+  }
+}
